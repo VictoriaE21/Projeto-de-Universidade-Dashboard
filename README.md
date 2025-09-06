@@ -4,26 +4,27 @@ Em um cenário de crescente complexidade na gestão educacional, a tomada de dec
 
 **Insigths criados**
 
-- INADIMPLÊNCIA POR CURSO
-- INADIMPLÊNNCIA POR CAMPUS
-- TOTAL DE ALUNOS POR CAMPOS
-- TOTAL DE ALUNOS POR TURNO
-- MÉDIA DE IDADE P/CURSO
-- FATURAMENTO P/CURSO
-- FATURAMENTO P/CAMPUS
-- FATURAMENTO P/TURNO
-- FILTRO DE PESQUISA PARA :CATEGORIAS DE CURSOS
-- FILTRO DE PESQUISA DE MÁTRICULA/CAMPUS/CURSO
-- RESUMO DE ALUNOS COM PRINCIPAIS DADOS
-- FOTOS DE PERFIS DOS ALUNOS AO ESCOLHER
-- TOTAL DE INADIMPLENTES
-- FATURAMENTO TOTAL
-- VALOR TOTAL DA INADIMPLÊNCIA
-- FATURAMENTO X INADIMPLÊNCIA P/CAMPUS
-- FATURAMENTO X INADIMPLÊNCIA P/TURNO
-- FATURAMENTO X INADIMPLÊNCIA P/ALUNOS PCD 
-- QUANTIDADE DE INADIMPLENTES POR CAMPUS
-- QUANTIDADE DE INADIMPLENTES POR TURNO
-- INADIMPLENTES POR GÊNERO
+- Inadimplência Por Curso
+- Inadimplência Por Campus
+- Total De Alunos Por Campos
+- Total De Alunos Por Turno
+- Média De Idade P/Curso
+- Faturamento P/Curso
+- Faturamento P/Campus
+- Faturamento P/Turno
+- Filtro De Pesquisa Para :Categorias De Cursos
+- Filtro De Pesquisa De Matricula/Campus/Curso
+- Resumo De Alunos Com Principais Dados
+- Fotos De Perfis Dos Alunos Ao Escolher
+- Total De Inadimplentes
+- Faturamento Total
+- Valor Total Da Inadimplência
+- Faturamento X Inadimplência P/Campus
+- Faturamento X Inadimplência P/Turno
+- Faturamento X Inadimplência P/Alunos PCD 
+- Quantidade De Inadimplentes Por Campus
+- Quantidade De Inadimplentes Por Turno
+- Inadimplentes Por Gênero
+
   
 **Fonte da Base de Dados:** Curso POWER BI & SQLSERVER - Professor Danilo Yto
