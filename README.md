@@ -26,5 +26,9 @@ Em um cenário de crescente complexidade na gestão educacional, a tomada de dec
 - Quantidade De Inadimplentes Por Turno
 - Inadimplentes Por Gênero
 
+
+
+
+
   
 **Fonte da Base de Dados:** Curso POWER BI & SQLSERVER - Professor Danilo Yto
